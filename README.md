@@ -1,3 +1,3 @@
-# clone_youtube-react2
+# clone_youtube-react non responsive
 
-https://clone--react2.web.app/search/titanic
+https://clone--react2.web.app/
